@@ -22,7 +22,11 @@ Recommended Operating System: Linux
 1. Make the file utilising makefile
    **Linux:** 
               *make*
-              *expression_tree_test.cc*
+              
+2. Run the program
+   **Linux:** 
+              *./expression_tree*
+           
 
 -------------
 File manifest
